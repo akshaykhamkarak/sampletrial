@@ -1,5 +1,1 @@
 hello master
-
-hello nb
-
-from nb to master
