@@ -2,4 +2,7 @@ hello master
 
 from nb
 
+<<<<<<< HEAD
 come back in master again
+=======
+>>>>>>> nb
